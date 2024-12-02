@@ -8,7 +8,7 @@
 ## Latihan 1
 # ![Screenshot from 2024-11-26 14-22-32](https://github.com/user-attachments/assets/d02966bc-9672-4de1-92f7-06289097943b)
 ## Latihan1.py
-Python
+```Python
 import math
 
 a = lambda x: x**2
@@ -19,7 +19,7 @@ d = lambda s: "".join(set(s))
 print("lambda a(5):", a(5))
 print("lambda b(3, 4):", b(3, 4))
 print("lambda c(1, 2, 3, 4, 5):", c(1, 2, 3, 4, 5))
-print("lambda d('hello Zaki'):", d("Zaki"))
+````print("lambda d('hello Zaki'):", d("Zaki"))
 
 ### Code Program Tersebut :
 # ![latihan1](https://github.com/user-attachments/assets/da267cc8-0fbe-4e08-b347-8264e1fcc93d)
