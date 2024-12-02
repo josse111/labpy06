@@ -24,7 +24,7 @@ print("lambda d('hello Zaki'):", d("Zaki"))
 ### Code Program Tersebut :
 # ![latihan1](https://github.com/user-attachments/assets/da267cc8-0fbe-4e08-b347-8264e1fcc93d)
 ### Hasil Dari Program Tersebut :
-# ![WhatsApp Image 2024-12-02 at 06 34 10_b15464a4](https://github.com/user-attachments/assets/3bf9a57f-96af-42d3-861d-8c62c02d8add)
+# ![Screenshot 2024-12-02 232915](https://github.com/user-attachments/assets/205f0bdf-6206-4ee4-8c73-ff09bf55dbde)
 # Tugas Pratikum 
 # ![Screenshot from 2024-11-26 14-40-14](https://github.com/user-attachments/assets/596e5453-a8c5-4dd4-b326-bb3fe8aa5ffa)
 ### Tugas Pratikum.py / Labpy06.py
